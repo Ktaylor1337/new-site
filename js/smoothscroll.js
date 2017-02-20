@@ -58,6 +58,7 @@ $("#back-to-top a[href^='#']").on('click', function(e) {
 
 });
 
+
 $(".container a[href^='#']").on('click', function(e) {
 
    // prevent default anchor click behavior

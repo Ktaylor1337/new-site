@@ -37,6 +37,10 @@ ul.nav {
     font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
 }
 
+#menu a:hover {
+	text-decoration: underline;
+}
+
 
 footer {
   background-color: #cacaca;
@@ -192,8 +196,9 @@ a {
 }
 
 #contact {
-	text-align: left;
+	text-align: center;
 	color: black;
+	font-color: black;
 }
 
 
