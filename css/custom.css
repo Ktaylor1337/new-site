@@ -170,6 +170,11 @@ img {
 	horizontal-align: middle;
 }
 
+footer p {
+	font-size: 13px;
+}
+
+
 #get-involved {
 	background-color: #f3f3f3;
 	padding-top: 45px;
@@ -210,76 +215,36 @@ img {
 /* Responsive Styling */
 
 
+/* Large devices (large desktops, 1200px and up) */
+@media (max-width: 1199px) {
+
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (max-width: 991px) }
+
+}
+
+@media (max-width: 839px)  {
+
+img: 	
+
+}
+
+
+/* Small devices (tablets, 768px and up) */
 @media (max-width: 767px) {
 
-.nav {
-	width: 105%
+img {
+	width: 98%;
 }
 
 .fa-chevron-down {
-	position: absolute;
-    left: 57%;
-    margin-left: -48px;
-    opacity: 0.8;
-    font-size: 30px;
-    color: black;
+	width: 19%;
 }
-
-.jumbotron h1 {
-	font-size: 56px
-	margin-bottom: 30px;
-}
-
-.container {
-	width: 100%;
-}
-
-
-@media (max-width: 987px) {
 
 .nav {
-	width: 105%
+	width: 108%;
 }
 
-
-.fa-chevron-down {
-	position: absolute;
-    left: 55%;
-    margin-left: -48px;
-    opacity: 0.8;
-    font-size: 30px;
-    color: black;
-}
-
-
-@media (max-width: 971px) {
-
-.nav {
-	width: 105%
-}
-
-
-.fa-chevron-down {
-	position: absolute;
-    left: 55%;
-    margin-left: -48px;
-    opacity: 0.8;
-    font-size: 30px;
-    color: black;
-}	
-
-@media (max-width: 843px) {
-
-.nav {
-	width: 105%
-}
-
-
-.fa-chevron-down {
-	position: absolute;
-    left: 55%;
-    margin-left: -48px;
-    opacity: 0.8;
-    font-size: 30px;
-    color: black;
-}	
