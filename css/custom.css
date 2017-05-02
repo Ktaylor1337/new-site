@@ -10,6 +10,7 @@ body {
 ul.nav {
 	font-size: 20px;
 	font-weight: 100;
+
 }
 
 ul.nav, .jumbotron h1 {
@@ -36,7 +37,8 @@ ul.nav {
 
 #menu {
 	    margin-top: 30px;
-    font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 600;
 }
 
 #menu a:hover {
@@ -51,6 +53,23 @@ footer {
   margin-bottom: 5px;
   text-align: right;
   position: relative;
+}
+
+#footer {
+    padding: 30px;
+    overflow: hidden;
+    width: 100%;
+    border: 2px solid #f2f2f2;
+  
+
+}
+
+#footer p {
+  line-height: 20px;
+  margin-left: 50px;
+  padding: 50px;
+  font-family: Muli, Futura, Helvetica, Arial, sans-serif;
+
 }
 
 .fa-chevron-down {
@@ -192,6 +211,7 @@ footer p {
 	position: absolute;
     bottom: 20px;
     right: 20px;
+    text-align: center;
 }
 
 #back-to-top a {
@@ -211,6 +231,9 @@ footer p {
 	font-color: black;
 }
 
+body {
+
+}
 
 /* Responsive Styling */
 
